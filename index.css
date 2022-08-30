@@ -1,0 +1,18 @@
+.container{
+    margin-top: 40px;
+    padding:0 0 20px 0;
+    box-shadow: 1px 1px 8px rgb(185, 184, 184);
+}
+.registration-form{
+    width:70%;
+    margin: 30px auto;
+}
+.heading{
+    background-color: rgb(234, 236, 238);
+    text-align: center;
+    font-weight: 370;
+}
+.form-btn{
+    text-align: center;
+}
+
